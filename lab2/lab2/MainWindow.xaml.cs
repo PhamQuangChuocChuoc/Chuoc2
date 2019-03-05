@@ -29,5 +29,11 @@ namespace lab2
             MessageBox.Show(
                 "Thông báo", "Xin Chào Mọi Người");
         }
+
+        private void BtnHello_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show(
+                "Thông báo", "Hello");
+        }
     }
 }

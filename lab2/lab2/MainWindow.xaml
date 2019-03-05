@@ -13,5 +13,11 @@
             Height="100"
             Content="Show"
             Click="BtnShow_Click"/>
+        <Button
+            x:Name="btnHello"
+            Width="20"
+            Height="50"
+            Content="Show"
+        Click="BtnHello_Click"/>
     </Grid>
 </Window>

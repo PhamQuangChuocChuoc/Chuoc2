@@ -27,7 +27,7 @@ namespace lab2
         private void BtnShow_Click(object sender)
         {
             MessageBox.Show(
-                "Thông báo","Xin Chào Mọi Người!!!", MessageBoxImage.Information, MessageBoxButton.OKCancel);
+                "Thông báo", "Xin Chào Mọi Người");
         }
     }
 }

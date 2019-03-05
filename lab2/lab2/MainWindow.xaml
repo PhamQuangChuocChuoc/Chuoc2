@@ -12,6 +12,6 @@
             Width="35"
             Height="100"
             Content="Show"
-            Click=""/>
+            Click="BtnShow_Click"/>
     </Grid>
 </Window>

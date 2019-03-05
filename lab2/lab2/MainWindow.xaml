@@ -15,8 +15,8 @@
             Click="BtnShow_Click"/>
         <Button
             x:Name="btnHello"
-            Width="20"
-            Height="50"
+            Width="90"
+            Height="30"
             Content="Show"
         Click="BtnHello_Click"/>
     </Grid>

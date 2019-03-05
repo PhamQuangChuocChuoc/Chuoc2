@@ -33,7 +33,7 @@ namespace lab2
         private void BtnHello_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show(
-                "Thông báo", "Hello");
+                "Thông báo!!!", "Hello");
         }
     }
 }

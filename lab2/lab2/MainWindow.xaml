@@ -9,15 +9,15 @@
     <Grid>
         <Button
             x:Name="btnShow"
-            Width="35"
-            Height="100"
+            Width="100"
+            Height="35"
             Content="Show"
             Click="BtnShow_Click"/>
         <Button
             x:Name="btnHello"
-            Width="90"
-            Height="30"
-            Content="Show"
-        Click="BtnHello_Click"/>
+            Width="100"
+            Height="35"
+            Content="Hello"
+        Click="BtnHello_Click" Margin="208,216,210,48"/>
     </Grid>
 </Window>

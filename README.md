@@ -1,10 +1,8 @@
 ## Welcome to ChuocPham
 
+### Trang Chủ
+### Con Trang Chủ
 https://www.facebook.com/profile.php?id=100012082271386
-
-### Team CP 64
-### Team CP 64	### Team CP 64
-
 
  Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for	https://www.facebook.com/profile.php?id=100012082271386
 
@@ -23,7 +21,7 @@ Syntax highlighted code block
 
  **Bold** and _Italic_ and `Code` text	
 
- [Link](url) and ![Image](src= https://www.facebook.com/photo.php?fbid=678512232561513&set=a.148670602212348&type=3&theater)	
+ [Link](url) and ![Image](src)	
 ```	
 
  For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).	

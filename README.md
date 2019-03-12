@@ -2,7 +2,7 @@
 
 ### Trang Chủ
 ### Con Trang Chủ
-link="https://www.facebook.com/profile.php?id=100012082271386"
+ [Link](url="https://www.facebook.com/profile.php?id=100012082271386") and ![Image](src="https://www.facebook.com/photo.php?fbid=678512232561513&set=a.148670602212348&type=3&theater")	
 
  Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for	https://www.facebook.com/profile.php?id=100012082271386
 

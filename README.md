@@ -1,8 +1,8 @@
 ## Welcome to ChuocPham
-
+ [Welcome to chanel CP](view-source:https://www.facebook.com/profile.php?id=100012082271386).	
 ### Trang Chủ
 ### Con Trang Chủ
- [Link](url="view-source:https://www.facebook.com/profile.php?id=100012082271386") and ![Image](src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/52835965_678512242561512_7206111015585447936_o.jpg?_nc_cat=105&_nc_oc=AQmBDUkEb7NU2iV0ZcdaOU2v0l76GsFB7TXHKW7kE28dJf_2oJZBBaCzsE9Nt666H0U&_nc_ht=scontent.fvca1-1.fna&oh=75bbab8565ac9ee23fc809303c6d5a5c&oe=5D0952BE")	
+ [Image](src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/52835965_678512242561512_7206111015585447936_o.jpg?_nc_cat=105&_nc_oc=AQmBDUkEb7NU2iV0ZcdaOU2v0l76GsFB7TXHKW7kE28dJf_2oJZBBaCzsE9Nt666H0U&_nc_ht=scontent.fvca1-1.fna&oh=75bbab8565ac9ee23fc809303c6d5a5c&oe=5D0952BE")	
 
  Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for	https://www.facebook.com/profile.php?id=100012082271386
 

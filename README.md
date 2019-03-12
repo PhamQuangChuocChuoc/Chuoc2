@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to ChuocPham
 
-You can use the [editor on GitHub](https://github.com/PhamQuangChuocChuoc/Chuoc2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+https://www.facebook.com/profile.php?id=100012082271386
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Team CP 64
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
